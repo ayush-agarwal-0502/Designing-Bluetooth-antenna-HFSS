@@ -1,2 +1,3 @@
 # Designing-Bluetooth-antenna-HFSS
-Designing a dipole antenna suitable for Bluetooth applications using High Frequency Structure Simulator (HFSS) Antenna Design software 
+
+Had a course on antennas and propogation in 5th semester of my college . Since it was purely mathematical and boring , decided to simulate an antenna myself so that I could 
